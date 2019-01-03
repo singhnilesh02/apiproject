@@ -1,6 +1,8 @@
 package com.singpost.api.persistence.entity;
 
-public class InsuredVehicle
+import java.io.Serializable;
+
+public class InsuredVehicle implements Serializable
 {
 
 }
